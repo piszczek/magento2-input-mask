@@ -1,0 +1,22 @@
+{
+    "name": "piszczek/magento2-inputmask",
+    "description": "Add inputMask parameter to abstract input. Based on IMask.",
+    "tags": ["IMask", "InputMask", "Magento2", "Magento Module"],
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "andpis58@gmail.com",
+            "name": "Andrzej Piszczek"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Piszczek\\InputMask\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
