@@ -9,7 +9,6 @@
             "name": "Andrzej Piszczek"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
