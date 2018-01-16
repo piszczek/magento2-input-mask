@@ -4,6 +4,10 @@ This simply plugin allows add input mask configuration to form ui component conf
 
 Based on [Imask](https://github.com/uNmAnNeR/imaskjs) and support most of the configuration (except passing js function as a parameters).
 
+# Installation
+```
+composer require piszczek/magento2-inputmask
+```
 # Example
 
 Location
