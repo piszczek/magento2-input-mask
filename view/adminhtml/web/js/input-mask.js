@@ -12,6 +12,8 @@ define([], function () {
                         'Piszczek_InputMask/js/vendor/imask/inputmask.min'
                     ], this.inputMaskHandle.bind(this));
                 }
+                
+                return this;
             },
             inputMaskHandle: function ($) {
                 //wait for element rendering
